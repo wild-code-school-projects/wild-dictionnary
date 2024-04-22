@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             var words = new Dictionary<string, string>();
-            words.Add("a", "foo");
-            words.Add("b", "bar");
-            words.Add("c", "baz");
+            words.Add("a", "apple");
+            words.Add("b", "banana");
+            words.Add("c", "cat");
 
             Console.WriteLine("Before : ");
 
